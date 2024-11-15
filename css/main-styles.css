@@ -156,3 +156,15 @@ body._lock {
   width: 10px;
   background: #FFF;
 }
+
+.pae__buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 15px;
+  padding: 30px 0;
+}
+.pae__button {
+  padding: 5px 10px;
+  border: 1px solid #000;
+}
